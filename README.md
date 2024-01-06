@@ -1,5 +1,5 @@
 ## Hey, I'm Chase.
-I'm a Front End Developer and I am enthuastic about new technologies and teaching others.  
+I'm a Senior Front End Developer.  
 
 ### Get In Touch
 <a href="mailto:chasehemerdagmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
