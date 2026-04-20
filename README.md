@@ -1,3 +1,45 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Hemerda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h2 align="center">Senior Front-End Engineer</h2>
+
+<p align="center">
+  Building fast, scalable, and clean web applications with modern frontend architecture.
+</p>
+
+<p align="center">
+  <a href="mailto:chasehemerda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&color=1e293b" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&color=2563eb" />
+  </a>
+  <a href="https://github.com/chaserda">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
+</p>
+
+---
+
+## 🛠 Focus
+
+```ts
+const chase = {
+  building: ["Frontend platforms", "SaaS products", "Developer-friendly UIs"],
+  strengths: ["Performance", "Architecture", "Scalability"],
+  exploring: ["AI workflows", "Modern web tooling"]
+}
+
 # Hi, I’m Chase Hemerda 👋
 
 ### Senior Front-End Engineer
