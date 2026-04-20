@@ -32,25 +32,6 @@ I build fast, scalable, and clean web applications with a focus on modern fronte
 
 ## 🚀 Featured Projects
 
-> Replace with your actual repos
-
-### 🌐 Project One
-Short description of what it does.
-
-**Stack:** React, TypeScript, Next.js  
-[Live Demo](#) | [Repo](#)
-
-### ⚙️ Project Two
-Short description of what it does.
-
-**Stack:** Svelte, TypeScript, Tailwind  
-[Live Demo](#) | [Repo](#)
-
-### 📦 Project Three
-Short description of what it does.
-
-**Stack:** Astro, JavaScript, CSS  
-[Live Demo](#) | [Repo](#)
 
 ---
 
