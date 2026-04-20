@@ -33,11 +33,11 @@
 
 ## 🛠 Focus
 
-const chase = {
-  building: ["Frontend platforms", "SaaS products", "Developer-friendly UIs"],
-  strengths: ["Performance", "Architecture", "Scalability"],
-  exploring: ["AI workflows", "Modern web tooling"]
-}
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Frontend%20Platforms-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Priority-Performance%20%7C%20Architecture%20%7C%20UX-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Svelte%20%7C%20TypeScript-374151?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight" />
