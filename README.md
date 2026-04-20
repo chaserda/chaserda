@@ -33,7 +33,6 @@
 
 ## 🛠 Focus
 
-```ts
 const chase = {
   building: ["Frontend platforms", "SaaS products", "Developer-friendly UIs"],
   strengths: ["Performance", "Architecture", "Scalability"],
@@ -56,4 +55,3 @@ const chase = {
 <p align="center">
   <sub>Built with a focus on clarity, performance, and clean design</sub>
 </p>
-```
