@@ -34,9 +34,10 @@
 ## 🛠 Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Frontend%20Platforms-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Priority-Performance%20%7C%20Architecture%20%7C%20UX-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Svelte%20%7C%20TypeScript-374151?style=for-the-badge" />
+  <strong>Building</strong> scalable frontend platforms and SaaS products<br/>
+  <strong>Focused on</strong> performance, architecture, and clean UX<br/>
+  <strong>Working with</strong> React, Next.js, Svelte, TypeScript<br/>
+  <strong>Exploring</strong> AI workflows and modern web tooling
 </p>
 
 <p align="center">
