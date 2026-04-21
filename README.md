@@ -1,34 +1,34 @@
 <p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=240&section=header&text=Chase%20Hemerda&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20Frontend%20Engineer&descSize=20&descAlignY=55" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Chase%20Hemerda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Frontend%20Engineer&descSize=21&descAlignY=56" />
 </p>
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
-
 </p>
 
+<br />
+
 <p align="center">
-  Building fast, scalable, and clean web applications with modern frontend architecture.
+  I build high-performance frontend systems, scalable product experiences, and modern web applications that stay fast as they grow.
 </p>
 
 <p align="center">
   <a href="mailto:chasehemerda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&color=1e293b" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&color=2563eb" />
+    <img src="https://img.shields.io/badge/Email-chasehemerda%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chaserda">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-chaserda-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<br />
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=chaserda&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img height="165" src="https://streak-stats.demolab.com?user=chaserda&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
