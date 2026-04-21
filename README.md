@@ -19,7 +19,7 @@
   <a href="https://github.com/chaserda">
     <img src="https://img.shields.io/badge/GitHub-Projects-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/chaserda/">
     <img src="https://img.shields.io/badge/LinkedIn-Network-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
