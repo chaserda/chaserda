@@ -1,14 +1,7 @@
 <p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Chase%20Hemerda&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Senior%20Frontend%20Engineer&descSize=20&descAlignY=60" />
-
 </p>
 
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
-
-</p>
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
