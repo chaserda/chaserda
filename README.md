@@ -1,6 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Chase%20Hemerda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Frontend%20Engineer&descSize=21&descAlignY=56" />
-    <a href="mailto:chasehemerda@gmail.com">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
+</p>
+
+<br />
+
+<p align="center">
+      <a href="mailto:chasehemerda@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chaserda">
@@ -11,18 +20,11 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
-</p>
-
 <br />
 
 <p align="center">
   Frontend engineer focused on performance, architecture, and building product experiences that are clean, scalable, and built to last.
 </p>
-
-
 
 <br />
 
