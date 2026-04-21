@@ -1,6 +1,11 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Hemerda%0ASenior%20Frontend%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Hemerda-nl-Senior%20Frontend%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
+
 </p>
 
 <p align="center">
