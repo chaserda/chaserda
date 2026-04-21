@@ -24,16 +24,6 @@
   </a>
 </p>
 
----
-
-## ⚡ Tech Stack
-
-
-
----
-
-## 🛠 Focus
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=chaserda&theme=tokyonight&hide_border=true" />
