@@ -35,16 +35,9 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chaserda&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaserda&style=flat-square&color=6366f1" />
-</p>
-
-<p align="center">
-  <sub>Built with a focus on clarity, performance, and clean design</sub>
 </p>
