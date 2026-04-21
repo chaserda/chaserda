@@ -1,12 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Hemerda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Hemerda%0ASenior%20Frontend%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
-<h2 align="center">Senior Front-End Engineer</h2>
 
 <p align="center">
   Building fast, scalable, and clean web applications with modern frontend architecture.
