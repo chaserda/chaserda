@@ -34,13 +34,6 @@
 ## 🛠 Focus
 
 <p align="center">
-  <strong>Building</strong> scalable frontend platforms and SaaS products<br/>
-  <strong>Focused on</strong> performance, architecture, and clean UX<br/>
-  <strong>Working with</strong> React, Next.js, Svelte, TypeScript<br/>
-  <strong>Exploring</strong> AI workflows and modern web tooling
-</p>
-
-<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chaserda&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
