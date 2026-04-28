@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Chase%20Hemerda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Frontend%20Engineer&descSize=21&descAlignY=56" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Chase%20Hemerda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer&descSize=21&descAlignY=56" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-  Frontend engineer focused on performance, architecture, and building product experiences that are clean, scalable, and built to last.
+  Software engineer focused on performance, architecture, and building product experiences that are clean, scalable, and built to last.
 </p>
 
 <br />
