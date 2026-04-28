@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,nodejs,tailwind,postgres,mongodb,aws,vitest" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,svelte,nodejs,tailwind,postgres,mongodb,aws" />
 </p>
 
 <br />
